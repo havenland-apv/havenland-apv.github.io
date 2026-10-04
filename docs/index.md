@@ -12,7 +12,7 @@ Alle regels zijn van toepassing binnen Havenland Roleplay. Bij verandering van d
 </br>
 
 **Staff-zaken:**<br>
-Elk staff-lid is bevoegd staff-zaken te behandelen kijkend naar de regels van Prime. Een stafflid mag op geen enkele wijze een staff-zaak behandelen waar hij/zij zelf bij betrokken is of waar zijn/haar beroep/gang bij betrokken is met uitzondering van Hoofdstaff of hoger met toeziend oog van een mede-hogerop. Alle staff-zaken worden behandeld op feiten, logs en/of eigen perspectief.<br>
+Elk staff-lid is bevoegd staff-zaken te behandelen kijkend naar de regels van Havenland. Een stafflid mag op geen enkele wijze een staff-zaak behandelen waar hij/zij zelf bij betrokken is of waar zijn/haar beroep/gang bij betrokken is met uitzondering van Hoofdstaff of hoger met toeziend oog van een mede-hogerop. Alle staff-zaken worden behandeld op feiten, logs en/of eigen perspectief.<br>
 </br>
 
 **Begrippen:**<br>
@@ -27,5 +27,5 @@ Buiten onze main discord hebben we ook een aantal andere discord servers, deze v
 
 | Discord | Discord Uitnodiging |
 |---|---|
-| Prime Main Discord | [Uitnodiging](https://discord.gg/rCjqgerNy6) |
-| Prime Support Discord | [Uitnodiging](soon) |
+| Havenland Main Discord | [Uitnodiging](https://discord.gg/rCjqgerNy6) |
+| Havenland Support Discord | [Uitnodiging](soon) |
