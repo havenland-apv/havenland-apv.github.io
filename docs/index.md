@@ -1,9 +1,9 @@
 # Hoofdpagina
-### Algemene Plaatselijke Verordening Prime
+### Algemene Plaatselijke Verordening Havenland Roleplay
 </br>
 
 **Algemene definities:**<br>
-**Stad:**		    Prime<br>
+**Stad:**		    Havenland Roleplay<br>
 **Staff Team:**		Staff<br>
 **Hogerop:**		  Headstaff +<br>
 </br>
