@@ -8,7 +8,7 @@
 **Hogerop:**		  Headstaff +<br>
 </br>
 
-Alle regels zijn van toepassing binnen Prime. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstigste bepalingen toegepast.<br>
+Alle regels zijn van toepassing binnen Havenland Roleplay. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstigste bepalingen toegepast.<br>
 </br>
 
 **Staff-zaken:**<br>
